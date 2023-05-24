@@ -3,7 +3,7 @@
 # Artificial Neural Network Sessional - CSE 4132 : All Projects
 
 Rules for Project:
-Folder name: Group 'No' - 'Project Name' ('IDs')
+1. Folder name: Group 'No' - 'Project Name' ('IDs')
 
 Rules for Assignments:
 1. Upload the assignmets in "Assignment" folder.
