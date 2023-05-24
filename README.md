@@ -1,7 +1,7 @@
 # **Bangladesh Army University Of Science And Technology, Saidpur**
-<p align="center"> 
+
 ![BAUST Transparent logo](https://github.com/mdalarmansorker/Artificial-Neural-Network-All-Projects-and-Assignments/assets/73396847/c718788a-f887-45da-93b2-00c505b5948f)
-</p>
+
 # Artificial Neural Network & Sessional - CSE 4131 & CSE 4132 : All Projects And Assignments
 
 Rules for Project:
