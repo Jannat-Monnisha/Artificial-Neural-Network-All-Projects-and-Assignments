@@ -1,6 +1,6 @@
 # **Bangladesh Army University Of Science And Technology, Saidpur**
 
-# Artificial Neural Network Sessional - CSE 4132 : All Projects
+# Artificial Neural Network & Sessional - CSE 4131 & CSE 4132 : All Projects And Assignments
 
 Rules for Project:
 1. Folder name: Group 'No' - 'Project Name' ('IDs')
