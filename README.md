@@ -4,6 +4,7 @@
 
 Rules for Project:
 1. Folder name: Group 'No' - 'Project Name' ('IDs')
+2. Upload your all project file in the folder.
 
 Rules for Assignments:
 1. Upload the assignmets in "Assignment" folder.
